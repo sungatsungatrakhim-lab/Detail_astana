@@ -1,0 +1,7 @@
+node_modules/
+dist/
+preview/
+raw/
+*.log
+.DS_Store
+.vite/
